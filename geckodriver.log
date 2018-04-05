@@ -1,0 +1,312 @@
+1522474543997	geckodriver	INFO	geckodriver 0.19.1
+1522474544008	geckodriver	INFO	Listening on 127.0.0.1:36605
+1522474545194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XTH0D54TWOgm"
+1522474546694	Marionette	INFO	Enabled via --marionette
+1522474550014	Marionette	INFO	Listening on port 40873
+1522474550184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://us.cobra.aliexpress.com/b2bad.html?site=glo&productId=32845742001&postCateId=380230&start=0&num=5&pageId=1627a90d01466ce0015100d9db22205cd48979c80b&cb=jQuery1830038179418610901794_1522474732983&_=1522474835720, line 1: SyntaxError: expected expression, got ')'
+1522474878344	geckodriver	INFO	geckodriver 0.19.1
+1522474878354	geckodriver	INFO	Listening on 127.0.0.1:42279
+1522474879546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NjsL3pwTziKy"
+1522474880634	Marionette	INFO	Enabled via --marionette
+1522474882570	Marionette	INFO	Listening on port 41283
+1522474882666	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1522475597425	geckodriver	INFO	geckodriver 0.19.1
+1522475597433	geckodriver	INFO	Listening on 127.0.0.1:46197
+1522475598630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dlO3HY6L1mDt"
+1522475600046	Marionette	INFO	Enabled via --marionette
+1522475603188	Marionette	INFO	Listening on port 37795
+1522475603302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1522475667214	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1522482414919	geckodriver	INFO	geckodriver 0.19.1
+1522482414926	geckodriver	INFO	Listening on 127.0.0.1:57515
+1522482416142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.W5YHUuucbSa1"
+1522482417590	Marionette	INFO	Enabled via --marionette
+1522482419762	Marionette	INFO	Listening on port 35777
+1522482419876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://i.alicdn.com/ae-detail-ui/alone/main-detail-v170105.ecdff98b.js, line 22: TypeError: a.records is undefined
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript error: https://i.alicdn.com/ae-detail-ui/alone/main-detail-v170105.ecdff98b.js, line 22: TypeError: a.records is undefined
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript error: https://i.alicdn.com/ae-detail-ui/alone/main-detail-v170105.ecdff98b.js, line 22: TypeError: a.records is undefined
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript error: https://i.alicdn.com/ae-detail-ui/alone/main-detail-v170105.ecdff98b.js, line 22: TypeError: a.records is undefined
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript error: https://i.alicdn.com/ae-detail-ui/alone/main-detail-v170105.ecdff98b.js, line 22: TypeError: a.records is undefined
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://i.alicdn.com/ae-detail-ui/alone/main-detail-v170105.ecdff98b.js, line 22: TypeError: a.records is undefined
+1522543725121	geckodriver	INFO	geckodriver 0.19.1
+1522543725130	geckodriver	INFO	Listening on 127.0.0.1:54453
+1522543726326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4NtECUw9QM3W"
+1522543727782	Marionette	INFO	Enabled via --marionette
+1522543730232	Marionette	INFO	Listening on port 45489
+1522543730260	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1522588198851	geckodriver	INFO	geckodriver 0.19.1
+1522588198858	geckodriver	INFO	Listening on 127.0.0.1:53803
+1522588200072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Sp7j2W5mNVkG"
+1522588201328	Marionette	INFO	Enabled via --marionette
+1522588203570	Marionette	INFO	Listening on port 36443
+1522588203590	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522588261892	geckodriver	INFO	geckodriver 0.19.1
+1522588261900	geckodriver	INFO	Listening on 127.0.0.1:37961
+1522588263123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4f32Dik0wkdq"
+1522588264082	Marionette	INFO	Enabled via --marionette
+1522588266124	Marionette	INFO	Listening on port 34431
+1522588266142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1522588425644	geckodriver	INFO	geckodriver 0.19.1
+1522588425652	geckodriver	INFO	Listening on 127.0.0.1:46711
+1522588426870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bneQf9P1otaL"
+1522588428252	Marionette	INFO	Enabled via --marionette
+1522588430772	Marionette	INFO	Listening on port 46863
+1522588430812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522588492119	geckodriver	INFO	geckodriver 0.19.1
+1522588492131	geckodriver	INFO	Listening on 127.0.0.1:36903
+1522588493341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PuxJFk16wLmD"
+1522588494292	Marionette	INFO	Enabled via --marionette
+1522588496198	Marionette	INFO	Listening on port 37597
+1522588496262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1522588600707	geckodriver	INFO	geckodriver 0.19.1
+1522588600719	geckodriver	INFO	Listening on 127.0.0.1:52771
+1522588601914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1qeQEs7ZDP9V"
+1522588602884	Marionette	INFO	Enabled via --marionette
+1522588604698	Marionette	INFO	Listening on port 46549
+1522588604740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://i.alicdn.com/ae-detail-ui/alone/main-detail-v170105.ecdff98b.js, line 22: TypeError: a.records is undefined
+1522589313261	geckodriver	INFO	geckodriver 0.19.1
+1522589313275	geckodriver	INFO	Listening on 127.0.0.1:45653
+1522589314509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tOvpg35dCBas"
+1522589316242	Marionette	INFO	Enabled via --marionette
+1522589319492	Marionette	INFO	Listening on port 33687
+1522589319556	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://i.alicdn.com/ae-detail-ui/alone/main-detail-v170105.ecdff98b.js, line 22: TypeError: a.records is undefined
+1522758308837	geckodriver	INFO	geckodriver 0.19.1
+1522758308846	geckodriver	INFO	Listening on 127.0.0.1:42355
+1522758310038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.J6MnuGrx3j5l"
+1522758311538	Marionette	INFO	Enabled via --marionette
+1522758313934	Marionette	INFO	Listening on port 39295
+1522758313970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1522758499831	geckodriver	INFO	geckodriver 0.19.1
+1522758499840	geckodriver	INFO	Listening on 127.0.0.1:33411
+1522758501033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FQsLrdLXsnjj"
+1522758502018	Marionette	INFO	Enabled via --marionette
+1522758503866	Marionette	INFO	Listening on port 40827
+1522758503952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1522758933478	geckodriver	INFO	geckodriver 0.19.1
+1522758933487	geckodriver	INFO	Listening on 127.0.0.1:35291
+1522758934684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jS5xjNpBf3ug"
+1522758935598	Marionette	INFO	Enabled via --marionette
+1522758937360	Marionette	INFO	Listening on port 42869
+1522758937404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1522759069510	geckodriver	INFO	geckodriver 0.19.1
+1522759069517	geckodriver	INFO	Listening on 127.0.0.1:36417
+1522759070689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TdqhN3CJhVI4"
+1522759071538	Marionette	INFO	Enabled via --marionette
+1522759073322	Marionette	INFO	Listening on port 32823
+1522759073416	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1522760059639	geckodriver	INFO	geckodriver 0.19.1
+1522760059648	geckodriver	INFO	Listening on 127.0.0.1:51039
+1522760060842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4skgvWNciUD4"
+1522760062096	Marionette	INFO	Enabled via --marionette
+1522760064154	Marionette	INFO	Listening on port 35573
+1522760064170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1522761255781	geckodriver	INFO	geckodriver 0.19.1
+1522761255788	geckodriver	INFO	Listening on 127.0.0.1:42859
+1522761256985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IAA3vhUmEscY"
+1522761257928	Marionette	INFO	Enabled via --marionette
+1522761259790	Marionette	INFO	Listening on port 41897
+1522761259808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1522761371922	geckodriver	INFO	geckodriver 0.19.1
+1522761371928	geckodriver	INFO	Listening on 127.0.0.1:40383
+1522761373113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zn0DzHSpUOpN"
+1522761373984	Marionette	INFO	Enabled via --marionette
+1522761375760	Marionette	INFO	Listening on port 38805
+1522761375834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1522761672317	geckodriver	INFO	geckodriver 0.19.1
+1522761672323	geckodriver	INFO	Listening on 127.0.0.1:60833
+1522761672499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6mEnZYog3xns"
+1522761673360	Marionette	INFO	Enabled via --marionette
+1522761675184	Marionette	INFO	Listening on port 39235
+1522761675226	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1522761787871	geckodriver	INFO	geckodriver 0.19.1
+1522761787880	geckodriver	INFO	Listening on 127.0.0.1:59675
+1522761789084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dKCqHIqNLtIO"
+1522761790026	Marionette	INFO	Enabled via --marionette
+1522761792090	Marionette	INFO	Listening on port 34033
+1522761792110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1522762548823	geckodriver	INFO	geckodriver 0.19.1
+1522762548832	geckodriver	INFO	Listening on 127.0.0.1:59511
+1522762550035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rsoIQoGGcwsv"
+1522762551114	Marionette	INFO	Enabled via --marionette
+1522762553106	Marionette	INFO	Listening on port 41203
+1522762553152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522762623690	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1522762663722	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1522790493162	geckodriver	INFO	geckodriver 0.19.1
+1522790493170	geckodriver	INFO	Listening on 127.0.0.1:37487
+1522790494364	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.R09EuabkbYzv"
+1522790495656	Marionette	INFO	Enabled via --marionette
+1522790497928	Marionette	INFO	Listening on port 42879
+1522790497994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1522791014778	geckodriver	INFO	geckodriver 0.19.1
+1522791014787	geckodriver	INFO	Listening on 127.0.0.1:59243
+1522791015980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Hysgu7pBqlsq"
+1522791017076	Marionette	INFO	Enabled via --marionette
+1522791019212	Marionette	INFO	Listening on port 41693
+1522791019304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1522792117961	geckodriver	INFO	geckodriver 0.19.1
+1522792117971	geckodriver	INFO	Listening on 127.0.0.1:40701
+1522792119168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MEnMDg0Neoiz"
+1522792120270	Marionette	INFO	Enabled via --marionette
+1522792122208	Marionette	INFO	Listening on port 36931
+1522792122290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1522792479569	geckodriver	INFO	geckodriver 0.19.1
+1522792479577	geckodriver	INFO	Listening on 127.0.0.1:39613
+1522792480774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2jYyGCCX1cgz"
+1522792481672	Marionette	INFO	Enabled via --marionette
+1522792483454	Marionette	INFO	Listening on port 33657
+1522792483516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1522792892089	geckodriver	INFO	geckodriver 0.19.1
+1522792892098	geckodriver	INFO	Listening on 127.0.0.1:52663
+1522792893290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lovYSLz3c3mE"
+1522792894144	Marionette	INFO	Enabled via --marionette
+1522792896002	Marionette	INFO	Listening on port 36897
+1522792896104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1522918156277	geckodriver	INFO	geckodriver 0.19.1
+1522918156284	geckodriver	INFO	Listening on 127.0.0.1:41371
+1522918157473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xVSnJPB00uUo"
+1522918158718	Marionette	INFO	Enabled via --marionette
+1522918160826	Marionette	INFO	Listening on port 43673
+1522918160898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20180314165726/buyer/front/ae-header.js, line 4: unreachable code after return statement
